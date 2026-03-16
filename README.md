@@ -1,5 +1,3 @@
-﻿# QM_Mngomezulu_PracTaskDOM
+# DOM Practice Project
 
-A DOM-based product manager web app built with HTML, CSS, and JavaScript.
-
-This project lets a user create, view, update, and delete products in a table, and toggle each product between Bought and Pending using interactive DOM events.
+This project is a JavaScript DOM practice app that demonstrates selecting elements, handling user input, and dynamically updating page content and styles in response to events.
